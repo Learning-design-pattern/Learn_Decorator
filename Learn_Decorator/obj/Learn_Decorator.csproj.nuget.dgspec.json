@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohsen1990\\Source\\Repos\\Learn_Decorator\\Learn_Decorator\\Learn_Decorator\\Learn_Decorator.csproj": {}
+    "C:\\Users\\Mohsen1990\\Source\\Repos\\Learn_Decorator\\Learn_Decorator\\Learn_Decorator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohsen1990\\Source\\Repos\\Learn_Decorator\\Learn_Decorator\\Learn_Decorator\\Learn_Decorator.csproj": {
+    "C:\\Users\\Mohsen1990\\Source\\Repos\\Learn_Decorator\\Learn_Decorator\\Learn_Decorator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohsen1990\\Source\\Repos\\Learn_Decorator\\Learn_Decorator\\Learn_Decorator\\Learn_Decorator.csproj",
+        "projectUniqueName": "C:\\Users\\Mohsen1990\\Source\\Repos\\Learn_Decorator\\Learn_Decorator\\Learn_Decorator.csproj",
         "projectName": "Learn_Decorator",
-        "projectPath": "C:\\Users\\Mohsen1990\\Source\\Repos\\Learn_Decorator\\Learn_Decorator\\Learn_Decorator\\Learn_Decorator.csproj",
+        "projectPath": "C:\\Users\\Mohsen1990\\Source\\Repos\\Learn_Decorator\\Learn_Decorator\\Learn_Decorator.csproj",
         "packagesPath": "C:\\Users\\Mohsen1990\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohsen1990\\Source\\Repos\\Learn_Decorator\\Learn_Decorator\\Learn_Decorator\\obj\\",
+        "outputPath": "C:\\Users\\Mohsen1990\\Source\\Repos\\Learn_Decorator\\Learn_Decorator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mohsen1990\\AppData\\Roaming\\NuGet\\NuGet.Config",
